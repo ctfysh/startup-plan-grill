@@ -24,7 +24,7 @@
 ```
 startup-plan-grill/
 ├── SKILL.md            # 技能入口，agent 加载后读取
-├── REFERENCE.md        # 统一参考文档（127 题 + 分支逻辑 + 执行协议 + 检查点 + 输出模板）
+├── REFERENCE.md        # 统一参考文档（136 题 + 分支逻辑 + 执行协议 + 检查点 + 输出模板）
 ├── EXAMPLES.md         # 入门指南与完整实战对话
 ├── examples/           # 6 个阶段示例对话（以校园二手教材 C2C 平台为贯穿案例）
 │   ├── Stage-0.md

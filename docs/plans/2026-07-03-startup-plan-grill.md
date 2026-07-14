@@ -4,7 +4,7 @@
 
 **Goal:** Build an installable opencode skill that runs a 6-stage Socratic grilling session, guiding a user from vague startup idea to structured business plan.
 
-**Architecture:** Single skill package under `startup-plan-grill/`. SKILL.md as agent entry point with concise workflow + trigger conditions. REFERENCE.md as unified reference with all ~127 questions, branching logic, execution protocol, checkpoint conditions, and output templates. examples/ (under skill package) as example conversation outputs.
+**Architecture:** Single skill package under `startup-plan-grill/`. SKILL.md as agent entry point with concise workflow + trigger conditions. REFERENCE.md as unified reference with all 136 questions, branching logic, execution protocol, checkpoint conditions, and output templates. examples/ (under skill package) as example conversation outputs.
 
 **Tech Stack:** Pure agent-interactive pattern — no CLI scripts, no dependencies, no external tools. Single agent loads skill and executes Q&A flow.
 
@@ -77,7 +77,7 @@ The SKILL.md must contain exactly 4 sections:
 - Reference: `docs/specs/2026-07-03-startup-plan-grill-design.md`
 
 **Interfaces:**
-- Consumes: `docs/specs/2026-07-03-startup-plan-grill-design.md` (all ~127 questions across 6 stages)
+- Consumes: `docs/specs/2026-07-03-startup-plan-grill-design.md` (all 136 questions across 6 stages)
 - Produces: REFERENCE.md — the detailed reference that the agent reads alongside SKILL.md during execution
 
 **Requirements:**
@@ -195,7 +195,7 @@ REFERENCE.md must cover all content that the agent needs at runtime. Organize by
 **Verification checklist:**
 - [ ] SKILL.md ≤ 100 lines
 - [ ] DESCRIPTION < 1024 chars, includes "startup", "创业", "商业计划书", "grill me", "创业计划书"
-- [ ] REFERENCE.md covers all ~127 questions from the design spec across 6 stages
+- [ ] REFERENCE.md covers all 136 questions from the design spec across 6 stages
 - [ ] All branching logic preserved verbatim from the design spec
 - [ ] All 5 checkpoint conditions documented
 - [ ] Cross-book tensions (Z2O/LS, TBM/BMG, LS/LS2) documented

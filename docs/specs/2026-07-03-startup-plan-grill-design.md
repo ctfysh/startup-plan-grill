@@ -573,7 +573,7 @@ Stage 5: 财务与融资 / 报表·比率·架构·融资·估值 [财报 + Vent
 
 ## 7. 用户故事示例
 
-技能包 `examples/` 目录下包含 6 个示例对话文件（Stage-0.md 至 Stage-5.md），使用"校园二手教材 C2C 交易平台"作为统一示例场景，展示了每道题的 Story/Demo/Acceptance/Error/Edge 五段式回答。总篇幅约 2073 行，覆盖全部 127+ 道问题。
+技能包 `examples/` 目录下包含 6 个示例对话文件（Stage-0.md 至 Stage-5.md），使用"校园二手教材 C2C 交易平台"作为统一示例场景，展示了每道题的 Story/Demo/Acceptance/Error/Edge 五段式回答。总篇幅约 2073 行，覆盖全部 136 道问题。
 
 用途：
 - **开发者参考**：展示 agent 在每道题上的预期行为，尤其是 Demo 段落的追问方式和 Error 段落的错误处理
