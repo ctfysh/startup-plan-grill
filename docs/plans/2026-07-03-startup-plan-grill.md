@@ -55,7 +55,7 @@ The SKILL.md must contain exactly 4 sections:
    - Stage 5: 财务与融资 / 财报+VD / 22 questions → (no gate, final output)
 
 4. **References** — links to deeper docs
-   - See [REFERENCE.md](REFERENCE.md) for all questions, branching logic, checkpoints, and output templates
+   - See [REFERENCE.md](../../REFERENCE.md) for all questions, branching logic, checkpoints, and output templates
    - See `examples/` for example conversations (example product: 校园二手教材 C2C 交易平台)
 
 **MUST DO:**

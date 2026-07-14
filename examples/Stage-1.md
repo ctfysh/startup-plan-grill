@@ -1,4 +1,4 @@
-# Stage 1: User Stories / 机会评估
+# Stage 1: User Stories - 机会评估
 
 > 框架来源：TBM 7 领域模型（如何测试商业模式 Ch1-Ch8）
 > 核心任务：用 7 个维度全面体检创业机会，判断是否值得投入
