@@ -1,7 +1,7 @@
 ---
 name: startup-plan-grill
 description: >
-  Interactive Socratic grilling skill that guides founders through 6 stages of structured questioning to build a complete startup plan. Use when user says "grill me", mentions "创业", "商业计划书", "创业计划书", or wants to develop a startup business plan from scratch. This skill does not judge ideas as good or bad. It only surfaces logical contradictions by asking the right questions from 7 books: 从0到1 (Zero to One), 商业模式新生代 (Business Model Generation), 如何测试商业模式 (Testing Business Models), 精益创业 (The Lean Startup), 精益创业2.0 (The Lean Startup 2.0), 一本书读懂财报 (Financial Statements), and 风险投资交易 (Venture Deals).
+  Interactive Socratic grilling skill that guides founders through 6 stages of structured questioning to build a complete startup plan. Use when user says "grill me", "打磨", "过一遍", "梳理想法", mentions "创业", "商业计划书", "创业计划书", "商业计划", or wants to develop a startup business plan from scratch. This skill does not judge ideas as good or bad. It only surfaces logical contradictions by asking the right questions from 7 books: 从0到1 (Zero to One), 商业模式新生代 (Business Model Generation), 如何测试商业模式 (Testing Business Models), 精益创业 (The Lean Startup), 精益创业2.0 (The Lean Startup 2.0), 一本书读懂财报 (Financial Statements), and 风险投资交易 (Venture Deals).
 ---
 
 ## 快速开始
