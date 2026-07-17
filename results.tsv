@@ -1,7 +1,0 @@
-timestamp	commit	skill	old_score	new_score	status	dimension	note	eval_mode
-2026-07-17T12:48	baseline	startup-plan-grill	-	70.1	baseline	-	初始评估	dry_run
-2026-07-17T12:50	84d0ecf	startup-plan-grill	70.1	73.7	keep	失败模式编码	新增5行失败模式表	dry_run
-2026-07-17T12:52	f99120e	startup-plan-grill	73.7	75.5	keep	检查点设计	加🔴视觉标记	dry_run
-2026-07-17T12:54	87ea397	startup-plan-grill	75.5	77.9	keep	反例与黑名单	新增6条反模式表格	dry_run
-2026-07-17T12:56	c177035	startup-plan-grill	77.9	80.2	keep	实测表现	扩展触发词4→8个	dry_run
-2026-07-17T12:58	1784587	startup-plan-grill	80.2	81.4	keep	失败模式编码	新增2条失败模式(共7条)	dry_run
