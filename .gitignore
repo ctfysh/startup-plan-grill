@@ -1,1 +1,4 @@
 .DS_Store
+.omo/
+results.tsv
+test-prompts.json
