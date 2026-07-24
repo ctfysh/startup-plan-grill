@@ -157,8 +157,9 @@ REFERENCE.md must cover all content that the agent needs at runtime. Organize by
   - 5F 估值与条款基础 (Q5.20-Q5.22, 可跳过)
   - Stage 5 输出模板
 
-- [ ] **Final output — 创业计划书模板 (design spec §6)**
-  - 10-chapter structure with mapping back to each stage's output
+- [ ] **Final output — 两份文档 (design spec §6)**
+  - 过程记录: `grill记录_[项目名称].md`
+  - 10-chapter 创业计划书: `创业计划书_[项目名称].md` (7000-11000字)
 
 - [ ] **Cross-book tension notes** (from design spec §3)
   - Z2O vs LS: 确定论 vs 试错论 → 先假设后验证
